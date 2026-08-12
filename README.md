@@ -75,7 +75,6 @@ Configure the group as follows:
 ### 2. Configure the Dynamic Membership Rule
 
 1. Under **Dynamic user members**, select **Add dynamic query**.
-<img width="425" height="72" alt="image" src="https://github.com/user-attachments/assets/52e9875b-6fa6-4686-aa38-04d8f5fb029d" />
 
 2. Configure the query using the following values:
 
