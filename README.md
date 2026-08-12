@@ -232,7 +232,8 @@ By completing this lab, you have practiced the following Microsoft Entra ID grou
 * Dynamic membership changes may take some time to be reflected in the group.
 
  ## Git & PowerShell Commands used for this Repo
-  <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/14015fe0-76ba-4aaf-a21b-11054e243769" />
+  <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/540f86c5-d405-4c0e-9de2-43ca9bbcee5e" />
+
   <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/6177baaa-3386-4cc3-aa15-23bd5b6521e4" />
 
 
