@@ -230,3 +230,131 @@ By completing this lab, you have practiced the following Microsoft Entra ID grou
 * **Group owners** can help manage group membership and configuration.
 * **Group-based licensing** allows licenses to be assigned to a group rather than individually to users.
 * Dynamic membership changes may take some time to be reflected in the group.
+
+ ## Git & PowerShell Commands — Lab 2
+  <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/14015fe0-76ba-4aaf-a21b-11054e243769" />
+  ![Uploading image.png…]()
+
+
+## Project Setup
+
+```powershell
+mkdir Microsoft-Entra-ID-Group-Management-Lab
+```
+
+**Function:** Creates the project folder.
+
+```powershell
+cd Microsoft-Entra-ID-Group-Management-Lab
+```
+
+**Function:** Enters the project folder.
+
+```powershell
+New-Item README.md
+```
+
+**Function:** Creates the README file.
+
+```powershell
+code README.md
+```
+
+**Function:** Opens the README in Visual Studio Code.
+
+---
+
+## Git Setup
+
+```powershell
+git init
+```
+
+**Function:** Initializes a new Git repository.
+
+```powershell
+git branch -M main
+```
+
+**Function:** Renames the default branch to `main`.
+
+```powershell
+git add README.md
+```
+
+**Function:** Stages the README for commit.
+
+```powershell
+git status
+```
+
+**Function:** Shows the current Git status.
+
+---
+
+## Commit Changes
+
+```powershell
+git commit -m "The second lab in the 5-parts lab"
+```
+
+**Function:** Creates a commit with the staged changes.
+
+---
+
+## Connect to GitHub
+
+```powershell
+git remote add origin https://github.com/Berenice2425/Microsoft-Entra-ID-Group-Management-Lab-LAB2-.git
+```
+
+**Function:** Connects the local repository to GitHub.
+
+---
+
+## Push to GitHub
+
+```powershell
+git push -u origin main
+```
+
+**Function:** Uploads the `main` branch to GitHub and sets `origin/main` as the upstream branch.
+
+---
+
+## Complete Workflow
+
+```powershell
+mkdir Microsoft-Entra-ID-Group-Management-Lab
+cd Microsoft-Entra-ID-Group-Management-Lab
+
+New-Item README.md
+code README.md
+
+git init
+git branch -M main
+
+git add README.md
+git commit -m "The second lab in the 5-parts lab"
+
+git remote add origin https://github.com/Berenice2425/Microsoft-Entra-ID-Group-Management-Lab-LAB2-.git
+
+git push -u origin main
+```
+
+### Quick Reference
+
+| Command                 | Function                    |
+| ----------------------- | --------------------------- |
+| `mkdir`                 | Create folder               |
+| `cd`                    | Change directory            |
+| `New-Item`              | Create file                 |
+| `code`                  | Open file in VS Code        |
+| `git init`              | Initialize Git              |
+| `git branch -M main`    | Rename branch to `main`     |
+| `git add`               | Stage changes               |
+| `git status`            | Check Git status            |
+| `git commit`            | Save changes to Git history |
+| `git remote add origin` | Connect to GitHub           |
+| `git push`              | Upload changes to GitHub    |
+
