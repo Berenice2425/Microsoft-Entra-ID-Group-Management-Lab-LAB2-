@@ -1,6 +1,7 @@
 # Microsoft Entra ID — Group Management Lab
 
 This is the second Lab in a 5-parts Lab series.
+
 In this lab  we cover common **Microsoft Entra ID group-management tasks**, including creating Microsoft 365 and security groups, managing group membership, assigning group owners, and assigning licenses to groups.
 
 > **Prerequisites**
