@@ -231,9 +231,10 @@ By completing this lab, you have practiced the following Microsoft Entra ID grou
 * **Group-based licensing** allows licenses to be assigned to a group rather than individually to users.
 * Dynamic membership changes may take some time to be reflected in the group.
 
- ## Git & PowerShell Commands — Lab 2
+ ## Git & PowerShell Commands used for this Repo
   <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/14015fe0-76ba-4aaf-a21b-11054e243769" />
-  ![Uploading image.png…]()
+  <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/6177baaa-3386-4cc3-aa15-23bd5b6521e4" />
+
 
 
 ## Project Setup
