@@ -23,6 +23,8 @@ In this task, you will create a Microsoft 365 group named **Project23** and add 
 3. From the left-hand navigation pane, select **Groups** → **All groups**.
 4. Select **+ New group**.
 
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/571cff04-ca50-48d7-a53a-9455b4d0aed8" />
+
 ### 2. Configure the Group
 
 Enter the following values:
@@ -33,6 +35,8 @@ Enter the following values:
 | **Group name**        | `Project23`                                                                                |
 | **Group description** | `This group consists of members of the new AI Simulation software with codename Project23` |
 | **Membership type**   | `Assigned`                                                                                 |
+
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/50c29d0e-582d-47b6-83e1-7aef97c0fca8" />
 
 ### 3. Add a Member
 
@@ -66,9 +70,13 @@ Configure the group as follows:
 | **Group description** | `This group has all the Guest users currently in the tenant.` |
 | **Membership type**   | `Dynamic User`                                                |
 
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/b1462aa7-62d2-41e1-b0c1-c16be0969890" />
+
 ### 2. Configure the Dynamic Membership Rule
 
 1. Under **Dynamic user members**, select **Add dynamic query**.
+<img width="425" height="72" alt="image" src="https://github.com/user-attachments/assets/52e9875b-6fa6-4686-aa38-04d8f5fb029d" />
+
 2. Configure the query using the following values:
 
 | Field        | Value      |
@@ -105,12 +113,21 @@ In this task, you will add **External User** to the **Project23** group.
 3. Select **Groups** → **All groups**.
 4. Select the **Project23** group.
 5. Select **Members**.
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/70356936-381b-4da8-baa2-7ca4b9b48fd9" />
+
+
 6. Select **+ Add members**.
+
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/ad7564c6-684d-4d59-b988-e0bcaace1dc7" />
+
 7. Find **External User**.
 8. Select the checkbox next to the user.
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/76970306-95df-408d-aa11-435ffc37fbc7" />
+
 9. Select **Select**.
 
 > **Result:** **External User** is now a member of **Project23**.
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/c4e45d67-b60d-4303-84c3-7f96ea3ffc6a" />
 
 ---
 
@@ -120,8 +137,15 @@ You can also add a user to a group from the user's profile.
 
 1. From the left-hand navigation pane, select **Users** → **All users**.
 2. Find and select **External User**.
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/b9dd449c-5f7b-4d94-9b75-832e851ce238" />
+
 3. Select **Groups**.
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/d2166389-83f1-4f4e-9791-10be793f4fed" />
+
 4. Select **+ Add memberships**.
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/4777ae54-010d-4daf-9877-113cb845e820" />
+
+
 5. Select the group you want to add the user to.
 6. Select **Select**.
 
@@ -140,11 +164,14 @@ In this task, you will add **Bhogeswar Kalita** as an owner of the **Project23**
 3. Select **Groups** → **All groups**.
 4. Select the **Project23** group.
 5. Select **Owners**.
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/a571b360-e3b4-4fee-99ba-8579edaeba80" />
 
 > **Note:** Depending on your tenant configuration, the administrator who creates a group may automatically become an owner if no other owner is specified.
 
 6. Select **+ Add owners**.
 7. Find and select **Bhogeswar Kalita**.
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/5330ab0f-844a-4b8f-9f65-bc2f79293ab8" />
+
 8. Select **Select**.
 9. Verify that **Bhogeswar Kalita** now appears in the group's list of owners.
 
